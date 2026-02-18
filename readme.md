@@ -178,10 +178,16 @@ Future analytical improvements:
 
 ---
 
-## 🌐 Project Dashboard / Live View
+## 🌐 Project Resourses
 
-👉 **Dashboard Link:**  
+👉 **Google docs dataset:**  
 https://docs.google.com/spreadsheets/d/11k6a7roDlZMBnM63qBJszrIvSV6clFQgL7Gq24U1zqo
+
+👉 **Report:**  
+https://docs.google.com/document/d/1T36qIGHvpVkGmAlXwnHxwWWLGpFPRiXnfsyYLOGpA48/edit?usp=sharing
+
+👉 **PPT:**  
+https://www.canva.com/design/DAHBqT8eVwY/VbJ38xB0lGCHaFKWszMmOw/edit?utm_content=DAHBqT8eVwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
 
