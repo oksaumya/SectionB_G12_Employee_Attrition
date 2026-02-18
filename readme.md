@@ -14,6 +14,19 @@ To analyze employee data and generate decision-ready insights that help HR leade
 
 ---
 
+**Goal:**  
+Identify attrition drivers, compensation patterns, and workforce risk segments to support **data-driven retention strategies**.
+
+---
+
+## 🎯 Business Objective
+• Understand why employees leave  
+• Detect high-risk attrition segments  
+• Analyze salary, satisfaction & performance impact  
+• Provide actionable workforce insights  
+
+---
+
 ## 🗂 Dataset Details
 
 **Source:** Kaggle – Employee Attrition Prediction Dataset  
